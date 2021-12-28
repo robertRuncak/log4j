@@ -5,6 +5,16 @@
 Zraniteľné sú rôzne systémy:
 * Frontend - Middleware - Backend
 * Klientské aplikácie
-* softvér vyvinutý na mieru
+* Hardvérové zariadenia
 
 Na zvládnutie zraniteľnosti je odporúčané:
+* Identifikácia všetkého zraniteľného softvéru a hardvéru aj takého, ktorý nie je dostupný z Internetu
+  * z katalógu aktív
+  * skenovaním serverov a pracovných staníc
+  * skenovaním siete
+  * detailnými dopytmi na subdodávateľov
+* Prioritizácia
+  * postupovať z kritických prvkov infraštruktúry na menej kritické ako napr. systémy dostupné z internetu, servery, pracovné stanice.
+  * vyradenie zastaralých prvkov, ktoré nie je možné alebo vhodné aktualizovať
+* Aktualizácia na verziu, ktorá nie je považovaná za zraniteľnú
+* Validácia funkčnosti aktualizácie
