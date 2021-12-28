@@ -1,1 +1,1 @@
-# log4j
+Na zvládnutie zraniteľnosti je odporúčané:
